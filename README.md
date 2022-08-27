@@ -3,4 +3,4 @@
 
 Creathis This Whatsapp Web clone Using HTML & CSS only 
 
-Live Link : https://github.com/Mayurpatillll/Whatsapp-Web-Clone
+Live Link : https://mayurpatillll.github.io/Whatsapp-Web-Clone/
