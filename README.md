@@ -1,6 +1,15 @@
 
-# Project Title
+# Project Name :  Whatsapp Web clone
 
-Creathis This Whatsapp Web clone Using HTML & CSS only 
 
-Live Link : https://mayurpatillll.github.io/Whatsapp-Web-Clone/
+## Made by 
+
+- [@Mayur Patil](https://github.com/Mayurpatillll)
+
+
+## Tech Stack
+
+* HTML
+* CSS
+
+ [Live Link ](https://mayurpatillll.github.io/Whatsapp-Web-Clone/)
